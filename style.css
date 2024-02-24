@@ -1,0 +1,125 @@
+.form-container {
+    max-width: 200px auto;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for each form section */
+.form-section {
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+/* Style for form buttons */
+.form-button {
+    margin-top: 10px;
+}
+
+.deleteUser{
+    text-align: left;
+    background-color: #e6ffe6; 
+    align-content: left;
+}
+.updateUser{
+    background-color: #ffe6e6; 
+    align-content: center;
+
+}
+
+.createuser{
+    background-color: #e6f7ff; 
+    align-content: right;
+}
+#deleteButton{
+    background-color: red;
+}
+#createUser{
+    background-color: blue;
+}
+#updateButton{
+    background-color: yellow;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+nav {
+    background-color: #dddddd;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    padding: 10px;
+    margin: 5px;
+}
+
+main {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+nav {
+    background-color: #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+main {
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
